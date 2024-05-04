@@ -14,7 +14,7 @@ O Site de Links é uma página web simples e eficaz para centralizar e compartil
 
 ## Como Usar
 
-Para acessar meu site de links, basta visitar [LINK_DO_SEU_SITE](#) no seu navegador. A partir daí, você encontrará uma lista de botões representando minhas diferentes redes sociais em cada plataforma. Clique em qualquer botão para ser redirecionado para a respectiva página.
+Para acessar meu site de links, basta visitar este [site](https://eduardavieira-dev.github.io/Link-bio-instagram/) no seu navegador. A partir daí, você encontrará uma lista de botões representando minhas diferentes redes sociais em cada plataforma. Clique em qualquer botão para ser redirecionado para a respectiva página.
 
 ## Baixando ou Clonando o Projeto
 
@@ -26,7 +26,7 @@ Se você deseja explorar o código-fonte do projeto ou fazer alterações, siga 
 
 3. Para clonar o repositório usando o Git, execute o seguinte comando:
     ```
-    git clone URL_DO_SEU_REPOSITORIO
+    git clone https://github.com/eduardavieira-dev/Link-bio-instagram.git
     ```
 
 
